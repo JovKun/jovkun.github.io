@@ -2,7 +2,7 @@
 title: ServerTopPlays
 description: Python Discord bot that announces top plays in the rhythm game "osu!" in real-time
 date: 2025-09-08
-permalink: /projects/servertopplays
+permalink: /projects/servertopplays/
 ---
 
 This bot was initially made since a bot that did this exact same thing got taken down from the Discord bot directory, so I took it upon myself to make one on my own.
