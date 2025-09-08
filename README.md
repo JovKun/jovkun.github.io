@@ -1,2 +1,1 @@
-# nnull.github.io
-GitHub page for portfolio
+theme: jekyll-theme-minimal
