@@ -1,9 +1,9 @@
 main:
   - title: "Projects"
-    url: /projects/servertopplays.html
+    url: /projects/servertopplays/
   - title: "About"
-    url: /about.html
+    url: /about/
 
 projects:
   - title: "ServerTopPlays"
-    url: /projects/servertopplays.html
+    url: /projects/servertopplays/
