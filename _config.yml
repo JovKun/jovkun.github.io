@@ -4,3 +4,11 @@ plugins:
 
 title: [nnull's cool site]
 description: [a cool portfolio on a cool site]
+
+navigation:
+ - name: Home
+  link: ./index.md
+ - name: About
+  link: ./about.md
+ - name: ServerTopPlays
+  link: ./projects/servertopplays.md
