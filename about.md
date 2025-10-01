@@ -6,6 +6,6 @@ permalink: /about/
 
 ## About Me
 
-![Me!](/docs/assets/pic.jpg)
+![profile_pic](/docs/assets/pic.jpg)
 
 [Home](https://jovkun.github.io)
