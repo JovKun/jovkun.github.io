@@ -1,9 +1,7 @@
 main:
   - title: "Projects"
-    url: /projects/servertopplays/
+    projects:
+      - title: "ServerTopPlays"
+        url: /projects/servertopplays/
   - title: "About"
     url: /about/
-
-projects:
-  - title: "ServerTopPlays"
-    url: /projects/servertopplays/
