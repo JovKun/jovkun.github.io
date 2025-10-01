@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /home/
+  - title: "Projects"
+    url: /projects/servertopplays/
+  - title: "About"
+    url: /about/
+
+projects:
+  - title: "ServerTopPlays"
+    url: /projects/servertopplays/
