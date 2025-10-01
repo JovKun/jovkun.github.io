@@ -9,3 +9,4 @@ Everything listed here are links, descriptions and showcases of previous and cur
 I hope you enjoy!
 
 [ServerTopPlays](https://jovkun.github.io/projects/servertopplays/)
+[About Me](https://jovkun.github.io/about/)
