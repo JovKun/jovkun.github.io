@@ -10,6 +10,6 @@ I hope you enjoy!
 
 [ServerTopPlays](https://jovkun.github.io/projects/servertopplays/)
 
-[Mindfuly](https://github.com/JovKun/mindfuly/) (currently private repo)
+[Mindfuly](https://jovkun.github.io/projects/mindfuly/)
 
 [About Me](https://jovkun.github.io/about/)
