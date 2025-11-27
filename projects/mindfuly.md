@@ -5,6 +5,8 @@ date: 2025-11-27
 layout: default
 permalink: /projects/mindfuly/
 ---
+# Mindfuly
+## RESTful Wellness-Tracker Web-Based Application
 
 This application was developed for CMPT 276.
 
