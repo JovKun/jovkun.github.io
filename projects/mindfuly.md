@@ -8,6 +8,8 @@ permalink: /projects/mindfuly/
 # Mindfuly
 *A RESTful Wellness-Tracker Web-Based Application*
 
+<img src="/docs/assets/mindfuly.png" alt="mindfuly" width="400"/>
+
 This application was developed for CMPT 276.
 
 We were separated into teams, with each team given the task to create any web application or web game that we wanted.
