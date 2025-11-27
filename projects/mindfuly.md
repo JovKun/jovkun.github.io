@@ -6,7 +6,7 @@ layout: default
 permalink: /projects/mindfuly/
 ---
 # Mindfuly
-## RESTful Wellness-Tracker Web-Based Application
+*A RESTful Wellness-Tracker Web-Based Application*
 
 This application was developed for CMPT 276.
 
