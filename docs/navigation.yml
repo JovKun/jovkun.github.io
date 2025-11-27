@@ -3,5 +3,7 @@ main:
     projects:
       - title: "ServerTopPlays"
         url: /projects/servertopplays/
+      - title: "Mindfuly"
+        url: /projects/mindfuly/
   - title: "About"
     url: /about/
