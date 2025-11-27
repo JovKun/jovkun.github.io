@@ -8,6 +8,7 @@ permalink: /projects/servertopplays/
 
 # ServerTopPlays
 *A Discord bot to listen to and announce top plays in the game osu!*
+<img src="docs/assets/top_announcer.jpg" alt="top-announcer" width="400"/>
 
 This bot was initially made since a bot that did this exact same thing got taken down from the Discord bot directory, so I took it upon myself to make one on my own.
 
