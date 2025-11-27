@@ -9,5 +9,5 @@ Everything listed here are links, descriptions and showcases of previous and cur
 I hope you enjoy!
 
 [ServerTopPlays](https://jovkun.github.io/projects/servertopplays/)
-
+[Mindfuly](https://github.com/JovKun/mindfuly/) (currently private repo)
 [About Me](https://jovkun.github.io/about/)
