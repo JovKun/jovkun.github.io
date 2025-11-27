@@ -16,6 +16,6 @@ I took online coding courses, such as Harvard's CS50, which accelerated my knowl
 
 Now, here I am. Currently taking CS at SFU, hoping to further my knowledge in programming and, most importantly, have a grand ol' time. I hope that this story can inspire some new minds to pick up programming, and that we can all have a grand ol' time together. :)
 
-<img src="pic.jpg" alt="profile-pic" width="200"/>
+<img src="docs/assets/pic.jpg" alt="profile-pic" width="200"/>
 
 [Home](https://jovkun.github.io)
