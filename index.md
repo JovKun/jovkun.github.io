@@ -13,3 +13,8 @@ I hope you enjoy!
 [Mindfuly](https://jovkun.github.io/projects/mindfuly/)
 
 [About Me](https://jovkun.github.io/about/)
+
+Contact:
+Phone - 778-751-5485
+Personal Email - joviankuntjoro@gmail.com
+School Email - jzk@sfu.ca
